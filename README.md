@@ -33,5 +33,9 @@
 ## 과제
 - 매주 월요일 23:59 까지 제출해주세요.
 
-1. 강의 요약
-2. 복습 퀴즈
+1. 강의 요약 - label `Lecture-Review`로 설정하여 pull request
+2. 복습 퀴즈 - 구글폼
+
+## 발표자료
+- 매주 월요일 23:59 까지 제출해주세요.
+- label `Presentation` 으로 설정하여 pull request
